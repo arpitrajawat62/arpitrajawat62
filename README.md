@@ -9,7 +9,7 @@
 
 ## 🛠 Skills
 - **Languages:** Python, JavaScript, Java
-- **Frameworks:** Django, Flask
+- **Frameworks:** Django, Django Rest framework
 - **Tools:** Git
 - **Databases:** MySQL, PostgreSQL
 
