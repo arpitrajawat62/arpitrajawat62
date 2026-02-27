@@ -1,22 +1,47 @@
-<h1 align="center"> Hi there, I'm Arpit Rajawat 👋</h1>
+<h1 align="center">_____Hi 👋, I'm Arpit Rajawat_____</h1>
+<h3 align="center">Python Backend Developer | FastAPI | Docker | PostgreSQL | AWS</h3>
 
-
+<h3 align="center">Connect with me</h3>
 <p align="center">
-<h1> 🚀 About Me </h1>
-- 🔭 I’m currently learning **backend development with Python**.
-- 💬 Ask me about anything related to **web development, Python, and JavaScript**.
-- 📫 How to reach me: [Email](mailto:arpitsingh62650@gmail.com)  </p>
 
-## 🛠 Skills
-- **Languages:** Python, JavaScript, Java
-- **Frameworks:** Django, Django Rest framework
-- **Tools:** Git
-- **Databases:** MySQL, PostgreSQL
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
 
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-rajawat-013676285/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitrajawat62)
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+</a>
 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+</p>
